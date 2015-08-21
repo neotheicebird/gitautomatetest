@@ -18,10 +18,3 @@ Test-2
 * write a dummy text to foo.txt
 
 * commit and push origin using token
-
-Test-3
-======
-
-* if test-2 is successful, write a python function to rollback to previous commit.
-
-* upgrade: rollback(num=3) should rollback 3 commits.
